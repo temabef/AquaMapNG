@@ -1,0 +1,49 @@
+State,LGA,Farm_Name,Latitude,Longitude,Species,Disease_Risk,Notes
+Lagos,Badagry,Atlantic Fish Farm,6.4305,2.8876,Tilapia,Low,Indoor RAS system with advanced biosecurity
+Lagos,Eti-Osa,Lekki Aquatics,6.4698,3.5852,Catfish,Medium,Pond system with moderate stocking density
+Lagos,Epe,Divine Waters Ltd,6.5830,3.9826,Catfish,High,High density ponds with limited water exchange
+Ogun,Ijebu-Ode,Bluefin Farms,6.8198,3.9170,Catfish,Low,Solar-powered aeration and water treatment
+Ogun,Abeokuta,GreenLife Aqua,7.1475,3.3619,Tilapia,Medium,Mixed system with some disease incidents
+Rivers,Port Harcourt,Delta Fisheries,4.8156,7.0498,Catfish,High,High-density system in urban area
+Rivers,Obio-Akpor,Riverview Farms,4.8719,7.0522,Tilapia,Medium,Medium-sized ponds with flood risk
+Delta,Warri,Warri Fish Center,5.5428,5.7631,Tilapia,Low,Modern facility with good management
+Delta,Ughelli,Freshwater Delight,5.9916,5.9883,Catfish,High,Traditional system with water quality issues
+Kano,Kano,Northern Aqua,11.9918,8.5373,Catfish,Low,Desert aquaculture with controlled environment
+Kaduna,Kaduna,Kaduna Fish Farm,10.5105,7.4165,Tilapia,Medium,Semi-intensive system near industrial zone
+Anambra,Awka,Nile Valley Aquatics,6.2084,7.0714,Catfish,Low,Clean water source from natural spring
+Anambra,Onitsha,Onitsha Fish Market,6.1319,6.7875,Mixed,High,Multi-species farm with crowded conditions
+Cross River,Calabar,Atlantic Edge Farms,4.9757,8.3417,Catfish,Medium,Coastal farm with brackish water influence
+Enugu,Enugu,Highland Fish Farm,6.4584,7.5464,Tilapia,Low,Elevated location with clean water source
+Plateau,Jos,Mountain Springs Aqua,9.8965,8.8583,Catfish,Low,Cool climate farming with spring water
+FCT,Abuja,Capital Fish Farm,9.0765,7.3986,Mixed,Medium,Government-sponsored demonstration farm
+Kogi,Lokoja,Confluence Aquatics,7.7954,6.7381,Catfish,High,River-fed system with flooding challenges
+Osun,Osogbo,Osun Fish Center,7.7614,4.5681,Tilapia,Medium,Medium-sized farm with seasonal water challenges
+Oyo,Ibadan,Ibadan Aqua Solutions,7.3775,3.9470,Mixed,Low,Research-focused farm with university partnership
+Sokoto,Sokoto,Sahel Fisheries,13.0059,5.2350,Catfish,Low,Desert adaptation facility with water recycling
+Zamfara,Gusau,Zamfara Aqua Ltd,12.1704,6.6614,Tilapia,Medium,Medium-scale farm with solar-powered aeration
+Kebbi,Birnin Kebbi,Kebbi River Farm,12.4539,4.1975,Mixed,High,River-adjacent farm with seasonal flooding
+Borno,Maiduguri,Lake Chad Aquatics,11.8311,13.1510,Tilapia,Medium,Security-enhanced facility with backup systems
+Yobe,Damaturu,Yobe Desert Fish,11.7472,11.9608,Catfish,Low,Innovative desert aquaculture with groundwater
+Edo,Benin City,Midwest Fisheries,6.3350,5.6037,Catfish,High,High production urban farm
+Akwa Ibom,Uyo,Coastal Treasures,5.0481,7.9234,Tilapia,Medium,Coastal farm with brackish water adaptation
+Bayelsa,Yenagoa,Niger Delta Farms,4.9267,6.3394,Mixed,High,Wetland-based farm with environmental challenges
+Taraba,Jalingo,Mambilla Highland Farm,8.8857,11.3596,Catfish,Low,Cool climate mountain farming
+Adamawa,Yola,Benue Valley Aqua,9.2035,12.4954,Tilapia,Medium,River-fed system with moderate management
+Benue,Makurdi,Benue River Farms,7.7322,8.5391,Mixed,Medium,River-adjacent system with seasonal variations
+Imo,Owerri,Owerri Aquatics,5.4836,7.0350,Catfish,High,Urban farm with space constraints
+Ebonyi,Abakaliki,Rice-Fish Farm,6.3249,8.1137,Tilapia,Low,Integrated rice-fish farming system
+Abia,Umuahia,Abia Fish Center,5.5246,7.4951,Catfish,Medium,Semi-intensive system with local materials
+Ekiti,Ado-Ekiti,Highland Waters,7.6232,5.2209,Mixed,Low,Spring-fed farm with natural water supply
+Bauchi,Bauchi,Bauchi Oasis Farm,10.3103,9.8437,Catfish,Medium,Desert fringe farm with water conservation
+Gombe,Gombe,Gombe Highland Aqua,10.2867,11.1729,Tilapia,High,High altitude farm with water quality issues
+Jigawa,Dutse,Sahel Aquatics,11.7975,9.3386,Catfish,Low,Desert-adapted farm with water recycling
+Kwara,Ilorin,Ilorin Fish Center,8.4799,4.5418,Mixed,Medium,University partnership research farm
+Niger,Minna,Niger Valley Farms,9.6139,6.5569,Tilapia,High,Large-scale farm with inconsistent management
+Lagos,Ikorodu,Ikorodu Aqua Hub,6.6194,3.5105,Mixed,Medium,Urban farm with integrated vegetable production
+Rivers,Bonny,Atlantic Fisheries,4.4057,7.1757,Catfish,Low,Coastal farm with seawater adaptation system
+Kano,Kura,Kano Irrigation Aqua,11.7752,8.4285,Tilapia,Medium,Integrated with irrigation scheme
+Ogun,Sagamu,Sagamu Fish Plaza,6.8496,3.6496,Mixed,High,Commercial farm with processing facilities
+Sokoto,Gwadabawa,Rima River Farms,13.3585,5.2381,Catfish,Medium,River-based farm with flood protection
+Delta,Asaba,Niger Bridge Farms,6.1985,6.7264,Tilapia,Low,Clean water source from river
+Kaduna,Zaria,Zaria Fish Haven,11.0885,7.7181,Mixed,High,Academic research partnership farm
+FCT,Gwagwalada,University Farm,8.9431,7.0804,Catfish,Medium,Educational and demonstration facility 
