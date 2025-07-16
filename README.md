@@ -54,7 +54,7 @@ AquaMapNG/
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/AquaMapNG.git
+   git clone https://github.com/temabef/AquaMapNG.git
    cd AquaMapNG
    ```
 
